@@ -1,2 +1,3 @@
 # hello-world
-just my first ever repository
+
+Hello there! I'm Diego a tecnology lover, thats why I put my social accounts geeky Diego, because it refers about me beign geek. anyway today is 19 March 2018 im 25 years old Venezuelan from Isla Margarita, Living in Buenos Aires, all I can hope is that I can keep up alive for many years so I can contribute with amazing projects around the world using github. I want to be the change this world needs, so I would need to learn a lot, visualize, and create ideas that flips the mind so we as a human race could elevate our vibrational rate to the frecuency of Love, peacefull joy and happiness… all by code.
